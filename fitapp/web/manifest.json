@@ -1,6 +1,6 @@
 {
-    "name": "fitapp",
-    "short_name": "fitapp",
+    "name": "demo_apresentacao_2",
+    "short_name": "demo_apresentacao_2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
